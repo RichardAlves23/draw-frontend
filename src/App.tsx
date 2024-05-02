@@ -1,9 +1,10 @@
+import Routes from "./routes"
+
 function App() {
-  
 
   return (
     <>
-      <h1>Project Draw</h1>
+      <Routes />
     </>
   )
 }
